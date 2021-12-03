@@ -1,0 +1,30 @@
+<div class="card">
+    <div class="card-header">Details of <b>{{employee.name}}:</b></div>
+    <div class="card-body">
+        <table class="table">
+            <tbody>
+                <tr>
+                    <th width="30%">Employee Id</th>
+                    <td>{{ employee.id }}</td>
+                </tr>
+                <tr>
+                    <th width="30%">Employee Name</th>
+                    <td>{{ employee.name }}</td>
+                </tr>
+                <tr>
+                    <th width="30%">Employee Salary</th>
+                    <td>{{ employee.salary }}</td>
+                </tr>
+                <tr>
+                    <th width="30%">Employee Designation</th>
+                    <td>{{ employee.designation }}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="card-footer">
+        <a class="btn btn-secondary" routerLink='/employees'>Back to List</a>
+        <a class="btn btn-primary m-2" [routerLink]="['/employee-update', employee.id]">Update</a>
+        <button class="btn btn-danger" (click)="deleteEmployee()">Delete</button>
+    </div>
+</div>

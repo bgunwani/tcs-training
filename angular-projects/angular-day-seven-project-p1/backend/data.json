@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "id": 1003,
+      "name": "Sarah Smith",
+      "salary": "50000",
+      "designation": "Tester"
+    },
+    {
+      "id": 1004,
+      "name": "Bhawna",
+      "salary": "12000",
+      "designation": "Manager"
+    },
+    {
+      "id": 1005,
+      "name": "Gautam",
+      "salary": "32000",
+      "designation": "Manager"
+    },
+    {
+      "id": 1006,
+      "name": "Shreya Ghoshal",
+      "salary": "60000",
+      "designation": "Developer"
+    },
+    {
+      "id": 1007,
+      "name": "Shreya Ghoshal",
+      "salary": "12000",
+      "designation": "Manager"
+    }
+  ]
+}

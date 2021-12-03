@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "id": 1001,
+      "name": "King Kochhar",
+      "salary": 12000,
+      "designation": "Manager"
+    },
+    {
+      "id": 1002,
+      "name": "John Smith",
+      "salary": 22000,
+      "designation": "Sr. Manager"
+    },
+    {
+      "id": 1003,
+      "name": "Sarah Bowling",
+      "salary": 30000,
+      "designation": "Developer"
+    },
+    {
+      "id": 1004,
+      "name": "Bhawna",
+      "salary": "12000",
+      "designation": "Manager"
+    },
+    {
+      "id": 1005,
+      "name": "Gautam",
+      "salary": "32000",
+      "designation": "Manager"
+    },
+    {
+      "id": 1006,
+      "name": "Shreya Ghoshal",
+      "salary": "60000",
+      "designation": "Developer"
+    }
+  ]
+}
