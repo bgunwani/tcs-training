@@ -1,0 +1,7 @@
+
+Http Module:
+
+    - Helps in creating NodeJS Web Server.
+    - To access web pages of any web app, you need a web server.
+    - E.g. IIS is a web server for .Net Application,
+        Apache Tomcat is a web server for Java and PHP Application.

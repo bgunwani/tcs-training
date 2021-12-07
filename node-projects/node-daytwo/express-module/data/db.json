@@ -1,0 +1,27 @@
+[
+    {
+        "id": 101,
+        "name": "Core Java",
+        "price": 12000
+    },
+    {
+        "id": 102,
+        "name": "Advance Java",
+        "price": 20000
+    },
+    {
+        "id": 103,
+        "name": "NodeJS",
+        "price": 50000
+    },
+    {
+        "id": 104,
+        "name": "Angular",
+        "price": 22000
+    },
+    {
+        "id": 105,
+        "name": "AWS",
+        "price": 60000
+    }
+]

@@ -1,0 +1,13 @@
+
+express Module:
+
+    - Express a web framework for NodeJS.
+    - fast and unopinionated minimalist web framework.
+    - It allows us to create restful web APIs for end users.
+    - It also helps in creating web server.
+    - express is based on NodeJS middleware called connect that uses http Module.
+    
+    npm install express 
+
+yarg module:
+
