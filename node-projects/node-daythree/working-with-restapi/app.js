@@ -21,7 +21,7 @@ app.get('/movies', (req, res) => {
         if (err) throw err;
         const data = JSON.parse(body);
         //res.send(data);
-        res.render('movies', { movies: data })
+        res.render('movies', { movies: data });
     })
 })
 
